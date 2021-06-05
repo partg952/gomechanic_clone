@@ -1,0 +1,26 @@
+#grid2{
+    margin: 0px;
+    display: grid;
+    grid-template-columns: repeat(2,400px);
+}
+#grid2 div{
+    
+    display: flex;
+}
+
+
+.light{
+    font-weight: 300;
+}
+
+
+img{
+    height: 120px;
+
+}
+
+.benefits{
+    width: 800px;
+    background-color: transparent;
+    margin: 20px;
+}

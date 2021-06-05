@@ -1,0 +1,58 @@
+.first{
+    margin-top: 5px;
+    padding:10px;
+    width: 50%;
+    text-align: left;
+    background-color: transparent;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    user-select: none;
+}
+
+.header{
+    background-image: url(https://gm-retail-app.s3.ap-south-1.amazonaws.com/banners-minified/desktop-homepage-banner/home-screen.jpg);
+    background-repeat:no-repeat;
+    height: 100vh;
+    background-size: 100% 110%;
+}
+
+#logo{
+    height: 50px;
+   
+}
+.second{
+    margin-top: 5px;
+    position: relative;
+    width: 50%;
+    display: flex;
+    background-color: transparent;
+    text-align: right;
+    justify-content: right;
+   
+}
+.second p {
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    background-color: transparent;
+    margin: 10px;
+}
+
+.second span{
+    position: absolute;
+    right: 0;
+    background-color: transparent;
+}
+
+nav{
+    padding: 20px;
+    display: flex;
+}
+
+#login-p{
+    border-radius: 3px;    
+    background-color: rgb(223, 2, 2);
+}

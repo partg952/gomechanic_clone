@@ -1,0 +1,43 @@
+.img img{
+    height: 70px;
+}
+
+.assurance{
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    width: 800px;
+    background-color: #5195e1;
+    color: white;
+   
+}
+
+.text{
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+   
+}
+
+li{
+    margin: 10px;
+
+}
+
+.assurance div{
+    margin: 10px;
+    
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#know-more{
+    list-style: none;
+    margin: 20px;
+}

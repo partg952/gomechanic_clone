@@ -1,0 +1,9 @@
+hr{
+  width: 6rem;
+  
+  position: absolute;
+  left: 30px;
+  padding: 1px;
+  border: 0;
+  background-color: red;
+}

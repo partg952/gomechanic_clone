@@ -1,0 +1,19 @@
+.nav-bar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    width: 40%;
+}
+
+.first2{
+    position: absolute;
+    left:0;
+    background-color: yellow;
+}
+.second2{
+    position: absolute;
+    right:0;
+    background-color: red;
+}

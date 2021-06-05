@@ -1,0 +1,37 @@
+.cars2{
+    position: relative;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 800px;
+    height: 300px;
+    background-color: transparent;
+    /* align-items: center;
+    justify-content: center; */
+}
+.cars2 div{
+    background-color: transparent;
+    text-align: center;
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+}
+
+.cars2 div img{
+    
+   
+    height: 200px;
+    border-radius: 4px;
+}
+
+.cars{
+    margin: 20px;
+}
+
+
+
+.cars2::-webkit-scrollbar{
+    display: none;
+}
+

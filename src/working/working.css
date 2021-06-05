@@ -1,0 +1,35 @@
+.working{
+    margin: 25px;
+   
+   
+    
+
+}
+.working div div{
+    align-items: center;
+    justify-content: center;
+    display: block;
+}
+
+.working div{
+    display: flex;
+}
+.big{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: left;
+    background-color: #f1f1f1;
+}
+.small{
+    background-color: transparent;
+    height: 70px;
+    font-size: 0;
+    width: 2px;
+    margin-left: 25px;
+    align-items: center;
+    justify-content: center;
+    background-color: #f1f1f1;
+}

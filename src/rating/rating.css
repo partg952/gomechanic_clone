@@ -1,0 +1,15 @@
+.rating{
+    width: 700px;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 20px;
+}
+.rating div{
+    margin: 20px;
+    text-align: center;
+}
+
+h6{
+    font-weight: 300;
+}

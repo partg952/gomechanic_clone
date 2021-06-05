@@ -1,0 +1,32 @@
+.products2{
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 800px;
+    /* align-items: center;
+    justify-content: center; */
+}
+.products2 div{
+    text-align: center;
+    margin: 20px;
+    width: 400px;
+    height: 250px;
+    display: inline-block;
+}
+
+.products2 div img{
+    height: 200px;
+    border-radius: 4px;
+}
+
+.products{
+    margin: 40px;
+}
+
+.products2::-webkit-scrollbar-track{
+    display: none;
+}
+
+.products2::-webkit-scrollbar{
+    display: none;
+}
